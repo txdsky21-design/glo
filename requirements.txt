@@ -4,3 +4,4 @@ requests
 protobuf
 PyJWT
 protobuf-decoder
+psutil
